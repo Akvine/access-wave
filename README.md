@@ -1,4 +1,4 @@
-# accessWave
+# access-wave
 Central application for authentication, authorization
 
 ## General info
